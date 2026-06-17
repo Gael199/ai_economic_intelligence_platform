@@ -17,7 +17,7 @@ st.set_page_config(
 DATABASE_URL = os.getenv("postgresql://economic_ai_user:Qk0Zgpqhwrx7YXwo7FA93SKdaP15UzrB@dpg-d8ph2ia8qa3s73bsa0mg-a.oregon-postgres.render.com/economic_ai")
 
 engine = create_engine(DATABASE_URL)
-)
+
 
 @st.cache_data
 def load_data():
