@@ -17,7 +17,7 @@
 
 👉 **Accéder à l'application :**
 
-**https://VOTRE-APPLICATION.streamlit.app**
+**(https://aieconomicintelligenceplatform-fqcyieya29bhhgmybbwi4n.streamlit.app/)**
 
 ---
 
